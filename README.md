@@ -9,9 +9,7 @@ We'd love to learn about how you work / write code, but we value your time and u
 
 ## The Challenge
 
-Use either:
-- Public Github API (https://developer.github.com/v3)
-- Github GraphQL API (https://developer.github.com/v4)
+Use Public Github API (https://developer.github.com/v3)
 
 Build a rudimentary service to query the Rails repository (https://github.com/rails/rails) for the latest open, unassigned issues.
 
