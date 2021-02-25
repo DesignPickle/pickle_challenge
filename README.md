@@ -41,6 +41,7 @@ Feel free to ignore the other labels.
 - Write a README - this should explain what you implemented (high level)
 - Include a `.ruby-version` file
 - Please don't put your solution on Github. We don't want our candidates to be able to see each other's work and the history of the project. Please take your entire directory, and zip or tarball it for submission.
+- Please include your name to the name of the compressed file. It will help us out a lot!
 
 ## Whats next?
 After you submit your solution, we'll review your code to see what you implemented and how you did it. We will use this to gauge your coding abilities and as a starting point for the next interview - a pairing session with our lead engineer.
