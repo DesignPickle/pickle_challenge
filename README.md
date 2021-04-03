@@ -32,7 +32,7 @@ In the repository, the Rails team uses labels to define the components of the st
 - Asset Pipeline
 
 ## Order the results 
-Allow users to order the result by comment count (ascending and descending).
+Allow users to order the results by comment count (ascending and descending).
 
 # Preparing to submit
 - Write a README - this should explain what you implemented (high level). Mention if you'd add anything else to this project to make it better.
@@ -40,7 +40,7 @@ Allow users to order the result by comment count (ascending and descending).
 - Please don't put your solution on Github. We don't want our candidates to be able to see each other's work and the history of the project. Please take your entire directory, and zip or tarball it for submission.
 - Please include your name on the name of the compressed file. It will help us out a lot!
 
-# Whats next?
+# What's next?
 After you submit your solution, we'll review your code to see what you implemented and how you did it. We will use this to gauge your coding abilities and as a starting point for the next interview - a pairing session with our lead engineer - where we'll have you walk us through your implemented solution.
 
 For the pairing session, be prepared to:
@@ -53,13 +53,13 @@ For the pairing session, be prepared to:
 
 These are some of the frequently asked questions we've received in the past about the pickle challenge.
 
-### Does this need to be a single page app or a vanilla server rendered Rails app?
+### Does this need to be a single page app or a vanilla server rendered page Rails app?
 
-A normal rails server rendered rails app is fine unless you really want to build a single page app.
+A normal server rendered page Rails app is fine unless you really want to build a single page app.
 
 ### How well do you want the issues to be presented?
 
-We’re not expecting a pro graphic designer / front-end css expert (it's awesome if you are though!). Keep it simple yet presentable.
+We’re not expecting a pro graphic designer / front-end css expert (it's awesome if you are though!). Keep it simple, yet presentable.
 
 ### Rails is overkill for this, can I use something lighter?
 
