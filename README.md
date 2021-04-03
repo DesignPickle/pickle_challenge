@@ -6,14 +6,12 @@ We'd love to learn about how you work / write code, but we value your time and u
 
 We ask that you spend a few hours (no more than 5) on the following challenge. We want you to be able to show your skills and commitment to writing great code in a pressure-free setting (just like you will be doing for Design Pickle!). The goal of this is NOT to have a production-ready application. There are multiple ways you can show us your skills, as you will see below, all based on the Github API. Be sure to take into consideration how long it will take to complete your solution. Remember, this is about quality, not quantity, and we don't want you spending a whole day on this.
 
-- We DO expect the final product to be a webpage (not just a console application).
 - Please use Ruby version 2.6.0. It makes our job a million times easier. Thank you!
+- Please use Ruby on Rails 5 or 6 for this project. We DO expect the final product to be a webpage (not just a console application).
 
-## The Challenge
+# The Challenge
 
-Use the [Public Github API](https://developer.github.com/v3) to build a rudimentary service to query the [Github Rails repository](https://github.com/rails/rails) issues and filter them. Feel free to use the `pickle_skeleton` starter Rails 6 app that's included in this repo.
-
-Show only the *open* and *unassigned* issues.
+Use the [Public Github API](https://developer.github.com/v3) to build a rudimentary service to query the [Github Rails repository](https://github.com/rails/rails) issues and filter them.
 
 # Requirements
 
@@ -38,7 +36,7 @@ Allow users to order the result by comment count (ascending and descending).
 
 # Preparing to submit
 - Write a README - this should explain what you implemented (high level). Mention if you'd add anything else to this project to make it better.
-- Include a `.ruby-version` file
+- Include a `.ruby-version` file in your Rails root folder.
 - Please don't put your solution on Github. We don't want our candidates to be able to see each other's work and the history of the project. Please take your entire directory, and zip or tarball it for submission.
 - Please include your name on the name of the compressed file. It will help us out a lot!
 
@@ -53,7 +51,7 @@ For the pairing session, be prepared to:
 
 # FAQ
 
-These are some of the frequently asked questions we've received in the past about this pickle challenge.
+These are some of the frequently asked questions we've received in the past about the pickle challenge.
 
 ### Does this need to be a single page app or a vanilla server rendered Rails app?
 
@@ -63,3 +61,6 @@ A normal rails server rendered rails app is fine unless you really want to build
 
 We’re not expecting a pro graphic designer / front-end css expert (it's awesome if you are though!). Keep it simple yet presentable.
 
+### Rails is overkill for this, can I use something lighter?
+
+Please use Ruby on Rails as our main product at Design Pickle is built on Rails.
