@@ -18,7 +18,7 @@ Use the [Public Github API](https://developer.github.com/v3) to build a rudiment
 Grab only the *open* and *unassigned* issues.
 
 ## Filter by Components
-In the repository, the Rails team uses labels to define the components of the stack the issues relate to. We'd like you to filter the results by the following components:
+In the repository, the Rails team uses labels to define the components of the stack the issues relate to. We'd like you to create an interface where a user can filter the results (issues) by the following components:
 
 - ActionCable
 - ActionMailer
