@@ -6,8 +6,9 @@ We'd love to learn about how you work / write code, but we value your time and u
 
 We ask that you spend a few hours (no more than 5) on the following challenge. We want you to be able to show your skills and commitment to writing great code in a pressure-free setting (just like you will be doing for Design Pickle!). The goal of this is NOT to have a production-ready application. There are multiple ways you can show us your skills, as you will see below, all based on the Github API. Be sure to take into consideration how long it will take to complete your solution. Remember, this is about quality, not quantity, and we don't want you spending a whole day on this.
 
-- Please use Ruby version 2.6.0. It makes our job a million times easier. Thank you!
-- Please use Ruby on Rails 5 or 6 for this project. We DO expect the final product to be a webpage (not just a console application).
+- Please use Ruby version 2.7.1. It makes our job a million times easier. Thank you!
+- Please use Ruby on Rails 5 or 6 for this project. We do expect the final product to be a webpage (not just a console application).
+- Please do **NOT** use the Octokit.
 
 # The Challenge
 
