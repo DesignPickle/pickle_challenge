@@ -8,7 +8,7 @@ We ask that you spend a few hours (no more than 5) on the following challenge. W
 
 - Please use Ruby version 2.7.1. It makes our job a million times easier. Thank you!
 - Please use Ruby on Rails 5 or 6 for this project. We do expect the final product to be a webpage (not just a console application).
-- Please do **NOT** use the Octokit.
+- Please do **NOT** use the Octokit gem.
 
 # The Challenge
 
